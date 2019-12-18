@@ -3,3 +3,4 @@ nltk
 git+https://github.com/boudinfl/pke.git
 gensim
 xgboost
+pytorch-pretrained-bert
