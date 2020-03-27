@@ -1,0 +1,41 @@
+index	objectA	objectB	aspects	label	triple results	comment
+1	London	Paris	Population	BETTER	309	The city with the higher population is assumed as better.
+2	Watermelon	Apple	sugar	BETTER	113	The fruite with less sugar is better.
+3	A380	777-300ER	seats	BETTER	22	The plane with more seats is better.
+4	coca-cola	orange juice	sugar	WORSE	30	The beverage with less sugar is better.
+5	ruby	php	performance	WORSE	113	The language providing better performance on execution is better.
+6	erlang	java	performance	WORSE	21	The language providing better performance on execution is better.
+7	induction	gas	boil	BETTER	51	The stove with a faster boiling time is better.
+8	android	ios	app quality	WORSE	41	The os with in average higher app quality is better.
+9	yale	harvard	endowment	WORSE	222	The university with more endowment is better.
+10	hdmi	dvi	image quality	EQUAL	53	The connection which deliver better image quality is better.
+11	pakistan	india	poverty	BETTER	364	The country with a lower poverty rate is better.
+12	twitter	facebook	virality	BETTER	52	The platform with better options for virality is better.
+13	vhs	betamax	picture quality	WORSE	25	The data medium with better picture quality is better.
+14	japan	china	air pollution	BETTER	74	The country with less air polution is better.
+15	nickel	copper	melting point	BETTER	54	The metal with a higher melting point is better.
+16	steel	titanium	melting point	WORSE	24	The metal with a higher melting point is better.
+17	stone	wood	insulation	WORSE	92	The material with a higher insulation value is better.
+18	wav	mp3	sound quality	BETTER	317	The format with a better sound quality is better.
+19	copper	bronze	harder	WORSE	64	The harder material is better.
+20	cast iron	steel	conductivity	BETTER	27	The metal with a higher cunduction value is better.
+21	running	cycling	calories	BETTER	233	The sport burning more calories is better.
+22	earth	uranus	mass	WORSE	111	The planet with more mass is better.
+23	granite	marble	durable	BETTER	148	The more durable material is better.
+24	cat	dog	cost	BETTER	793	The cheaper animal is better.
+25	lead	silver	density	BETTER	28	The more dense metal is better.
+26	rfid	nfc	range	BETTER	191	The technologie with higher range is better.
+27	mexico	argentina	size	WORSE	83	The larger country is better.
+28	mp3	wma	compression	WORSE	267	The format with the bigger compression is better.
+29	ccd	cmos	power	WORSE	274	The image sensor with less power consumption is better
+30	fat32	ntfs	security	WORSE	69	The file system which offers more security is better
+31	chicken	turkey	protein	WORSE	2929	The food with more protein is better.
+32	raven	crow	size	BETTER	35	The bird with the larger size is better.
+33	ntsc	pal	bandwidth	WORSE	87	The color encoding system with more bandwidth is better.
+34	dsl	cable	speed	WORSE	4111	The connection which offers more speed is better.
+35	am	fm	range, sound quality	BETTER/WORSE	1025/272	The radio transmission with higher range is better./The radio transmission approach with better sound quality is better.
+36	glucose	fructose	sweetness, glycemic index	WORSE/WORSE	162/91	The sugar type which tastes sweeter is better/The sugar type with the lower glycemic index is better.
+37	lightroom	photoshop	organize, price	BETTER/BETTER	73/160	The software which is better to organize is better/The cheaper software is better.
+38	plywood	osb	cost, wet	WORSE/BETTER	43/25	The cheaper building material is better./The building material where wetness has less effect is better.
+39	nylon	polyester	elastic, durability	BETTER/BETTER	826/327	The more elastic fabric is better./The more durable fabric is better.
+40	concrete	asphalt	cost, snow	WORSE/WORSE	388/338	The cheaper material for building roads is better./The material which better against snow.
