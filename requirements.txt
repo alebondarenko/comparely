@@ -11,3 +11,7 @@ git+https://github.com/boudinfl/pke.git
 gensim
 xgboost
 pytorch-pretrained-bert
+tiny-tokenizer
+pytorch_transformers
+flair
+tensorflow
